@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "iosfwd": "cpp",
+    "ostream": "cpp"
+  },
+  "code-runner.runInTerminal": true,
+  "cmake.cmakePath": "/Users/zed/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.46/CLion.app/Contents/bin/cmake/mac/bin/cmake",
+  "cmake.buildDirectory": "${workspaceFolder}/cmake-build-debug",
+  "cmake.allowCommentsInPresetsFile": true,
+}
