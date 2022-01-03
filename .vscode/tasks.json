@@ -31,7 +31,8 @@
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}/${fileBasenameNoExtension}"
+                "${fileDirname}/${fileBasenameNoExtension}",
+                "-fuse-ld=mold",
             ],
             "options": {
                 "cwd": "${fileDirname}"
