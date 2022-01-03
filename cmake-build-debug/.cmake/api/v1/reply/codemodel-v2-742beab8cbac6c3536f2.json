@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/zed/workspace/VSCode/cpp-cmake-demo/cmake-build-debug",
-		"source" : "/Users/zed/workspace/VSCode/cpp-cmake-demo"
+		"build" : "/Users/zed/workspace/VSCode/vscode-cpp-cmake-demo/cmake-build-debug",
+		"source" : "/Users/zed/workspace/VSCode/vscode-cpp-cmake-demo"
 	},
 	"version" : 
 	{
