@@ -8,7 +8,6 @@
             "args": [
                 "-std=c++17",
                 "-stdlib=libc++",
-                "-fuse-ld=mold",
                 "-g",
                 "${file}",
                 "-o",
@@ -18,7 +17,7 @@
                 "cwd": "${workspaceFolder}"
             },
             "problemMatcher": [
-                "$gcc"
+              
             ],
             "group": "build"
         },
